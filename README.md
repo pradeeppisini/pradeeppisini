@@ -25,7 +25,7 @@ Java Backend Developer with **3 years** of experience at **Mphasis, Chennai**, b
 
 - 🔭 Currently working on **microservices, Kafka, and cloud-native development**
 - 🤖 Exploring **AI-powered integrations** — building a Speech-to-Text agent with OpenAI Whisper + Spring Boot
-- 🌱 Levelling up in **Docker, Kubernetes, Spring Cloud, and AWS**
+- 🌱 Levelling up in **Docker, Kubernetes, and Spring Cloud**
 - 🎯 Open to roles in **Chennai · Hyderabad · Bengaluru · Remote / Hybrid**
 - ⚡ Fun fact: Started with Embedded C on STM32s before going full Java
 
@@ -78,7 +78,6 @@ Java Backend Developer with **3 years** of experience at **Mphasis, Chennai**, b
 
 **Cloud / DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -101,28 +100,13 @@ Java Backend Developer with **3 years** of experience at **Mphasis, Chennai**, b
 
 ---
 
-<!-- SECTION E: GitHub Stats -->
-## 📊 GitHub Stats
+<!-- SECTION E: GitHub Streak -->
+## 📊 GitHub Streak
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeeppisini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeppisini&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-
-  <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeeppisini&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-</div>
-
----
-
-<!-- SECTION F: GitHub Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradeeppisini&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
