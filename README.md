@@ -9,7 +9,7 @@
   <h1>Hey, I'm Pisini Pradeep!</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+Scalable+Enterprise+Apps;AI-Powered+Solutions+Explorer;2.5%2B+Years+%40+Mphasis%2C+Chennai" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+Scalable+Enterprise+Apps;AI-Powered+Solutions+Explorer;3 %2B+Years+%40+Mphasis%2C+Chennai" alt="Typing SVG" />
   </a>
 
   <br/>
