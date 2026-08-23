@@ -21,7 +21,7 @@
 <!-- SECTION B: About Me -->
 ## 🙋‍♂️ About Me
 
-Java Backend Developer with **2.5+ years** of experience at **Mphasis, Chennai**, building production-grade enterprise applications with Java and Spring Boot. I love the intersection of clean architecture and real-world problem solving.
+Java Backend Developer with **3 years** of experience at **Mphasis, Chennai**, building production-grade enterprise applications with Java and Spring Boot. I love the intersection of clean architecture and real-world problem solving.
 
 - 🔭 Currently working on **microservices, Kafka, and cloud-native development**
 - 🤖 Exploring **AI-powered integrations** — building a Speech-to-Text agent with OpenAI Whisper + Spring Boot
