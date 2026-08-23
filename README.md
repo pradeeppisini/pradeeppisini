@@ -31,6 +31,26 @@ Java Backend Developer with **3 years** of experience at **Mphasis, Chennai**, b
 
 ---
 
+<!-- SECTION C.1: Projects -->
+## 🚀 Projects
+
+### Enterprise Database Deployment Automation Framework
+**Tech Stack:** PowerShell, SQL Server, HTML Reporting, CSV Reporting | 2026
+
+- Designed and developed an enterprise database deployment automation framework for SQL Server release management.
+- Implemented state management, checkpoint tracking, and resumable execution to support failure recovery and restartable deployments.
+- Built automated preflight validation to verify SQL script readiness before each deployment execution.
+- Developed audit logging, execution tracking, and HTML/CSV reporting for deployment traceability and operational visibility.
+- Automated end-to-end release workflows with dry-run support and versioned script ordering to reduce manual effort.
+
+### Speech-to-Text Agentic Pipeline
+**Tech Stack:** Java, Spring Boot, OpenAI Whisper API, GPT-4o-mini, Apache POI
+
+- Built a multi-stage agentic pipeline that records audio, transcribes it via Whisper, analyzes the transcript with GPT-4o-mini, and exports structured results to Excel.
+- Designed with an enterprise-style structure including DTOs, JPA persistence, and a global exception handler for robustness.
+
+---
+
 <!-- SECTION C: Tech Stack -->
 ## 🛠️ Tech Stack
 
